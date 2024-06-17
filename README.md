@@ -1,6 +1,7 @@
 # Corne Keyboard Layout
 
 Keyboard layout with QWERTY layout on Mac.
+The layout images are produced by [Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
 
 
 # Layouts
