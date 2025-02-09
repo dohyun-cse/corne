@@ -20,6 +20,15 @@
         };
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        off {
+            bindings = <&soft_off>;
+            key-positions = <0 24 35 11>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
