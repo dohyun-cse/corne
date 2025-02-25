@@ -102,10 +102,10 @@
 
         PRESENTATION_LAYER {
             bindings = <
-&trans  &trans  &trans  &trans   &trans         &trans           &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans   &trans         &trans           &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &kp F5   &kp LG(LS(F))  &kp RC(LG(P))    &trans  &trans  &trans  &trans  &trans  &to 0
-                        &kp ESC  &kp LEFT       &kp RIGHT        &trans  &trans  &trans
+&none  &none  &none  &none    &none          &none            &none  &none  &none  &none  &none  &none
+&none  &none  &none  &none    &none          &none            &none  &none  &none  &none  &none  &none
+&none  &none  &none  &kp F5   &kp LG(LS(F))  &kp RC(LG(P))    &none  &none  &none  &none  &none  &to 0
+                     &kp ESC  &kp LEFT       &kp RIGHT        &none  &none  &none
             >;
         };
     };
